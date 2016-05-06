@@ -2,3 +2,5 @@
 .DS_Store
 ##REMOVE NODE MODULES
 /node_modules
+sentry
+servers
